@@ -1,0 +1,5 @@
+API to get user’s specific recommendations
+http://54.84.91.107/recommend/< user_id >
+
+Example
+http://54.84.91.107/recommend/da170574-dbb5-43d6-b321-f57d2bc5ae91
