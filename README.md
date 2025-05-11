@@ -1,6 +1,6 @@
 # BENA: Revolutionizing Travel in Egypt with AI-Powered Itineraries
 
-![BENA Logo Placeholder](./assets/images/logo.png)
+![BENA Logo Placeholder](./BENA%20-%20Mobile%20Application/assets/images/logo.png)
 
 ## Table of Contents
 
@@ -29,8 +29,8 @@ BENA is a groundbreaking mobile travel planning application designed to transfor
 
 <table>
   <tr>
-    <td><img src="./assets/screens/signin.png" width="90%"></td>
-    <td><img src="./assets/screens/signin_gaurd.png" width="90%"></td>
+    <td><img src="./BENA%20-%20Mobile%20Application/assets/screens/signin.png" width="90%"></td>
+    <td><img src="./BENA%20-%20Mobile%20Application/assets/screens/signin_gaurd.png" width="90%"></td>
   </tr>
 </table>
 
@@ -38,9 +38,9 @@ BENA is a groundbreaking mobile travel planning application designed to transfor
 
 <table>
   <tr>
-    <td><img src="./assets/screens/loading_page.png" width="90%"></td>
-    <td><img src="./assets/screens/explore_1.png" width="90%"></td>
-    <td><img src="./assets/screens/explore_2.png" width="90%"></td>
+    <td><img src="./BENA%20-%20Mobile%20Application/assets/screens/loading_page.png" width="90%"></td>
+    <td><img src="./BENA%20-%20Mobile%20Application/assets/screens/explore_1.png" width="90%"></td>
+    <td><img src="./BENA%20-%20Mobile%20Application/assets/screens/explore_2.png" width="90%"></td>
   </tr>
 </table>
 
@@ -51,9 +51,9 @@ BENA is a groundbreaking mobile travel planning application designed to transfor
 
 <table>
   <tr>
-    <td><img src="./assets/screens/create_trip_manual.png" width="90%"></td>
-    <td><img src="./assets/screens/choose_place.png" width="90%"></td>
-    <td><img src="./assets/screens/create_trip_ai.png" width="90%"></td>
+    <td><img src="./BENA%20-%20Mobile%20Application/assets/screens/create_trip_manual.png" width="90%"></td>
+    <td><img src="./BENA%20-%20Mobile%20Application/assets/screens/choose_place.png" width="90%"></td>
+    <td><img src="./BENA%20-%20Mobile%20Application/assets/screens/create_trip_ai.png" width="90%"></td>
   </tr>
 </table>
 
@@ -64,8 +64,8 @@ BENA is a groundbreaking mobile travel planning application designed to transfor
 
 <table>
   <tr>
-    <td><img src="./assets/screens/current_trip_2.png" width="90%"></td>
-    <td><img src="./assets/screens/share_trip.png" width="90%"></td>
+    <td><img src="./BENA%20-%20Mobile%20Application/assets/screens/current_trip_2.png" width="90%"></td>
+    <td><img src="./BENA%20-%20Mobile%20Application/assets/screens/share_trip.png" width="90%"></td>
   </tr>
 </table>
 
@@ -74,7 +74,7 @@ BENA is a groundbreaking mobile travel planning application designed to transfor
 
 ### Search screen
 
-![Search Screen](./assets/screens/search.png)
+![Search Screen](./BENA%20-%20Mobile%20Application/assets/screens/search.png)
 
 *   **Easy and smart to search**: The main idea of the search screen is to provide easy access to the most basic needs
 *   **Search by keywords, categories, and/or filters.**
@@ -136,7 +136,7 @@ The project uses a hybrid recommendation model combining:
 
 *   **Database Design**: Schema overview
 
-    ![Database Schema](./assets/screens/schema.png)
+    ![Database Schema](./BENA%20-%20Mobile%20Application/assets/screens/schema.png)
 *   **Modularity:** The server-app communication is separated with well defined API models and functionalities for discovery, recommendation, and user personalization
 *   **Ease of Scale**: The AWS EC2 is a service that provides an automatic scaling backend with an easy to scale service from Supabase
 *   **Real time**: Supabase acts as a real time provider for activities such as trip sharing, or live feedback.
